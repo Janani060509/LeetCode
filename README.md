@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Janani060509/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/Janani060509/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Janani060509/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Janani060509/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Two Pointers
@@ -20,6 +21,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/Janani060509/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Janani060509/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Janani060509/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
